@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+.tags{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  background-color:grey;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right:50px;
+
+}
+figure img{
+  display: block;
+  margin: 0 auto;
+}
+.photo{
+  text-align: center;
+  font-size: 15px;
+}
+
+#featured-property p{
+  text-align: center;
+  width: 800px;
+  align-self: center;
+  justify-content: center;
+
+ 
+}
+
+#details{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  background-attachment: fixed;
+  background-color: red;
+}
